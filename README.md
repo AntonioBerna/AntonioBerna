@@ -7,7 +7,7 @@ Full-Stack Developer
 * 🌍  I'm based in Rome
 * 🖥️  See my portfolio at [MyPortfolio](http://antonioberna.github.io/MyPortfolio/)
 * ✉️  You can contact me at [antoniobernardini@live.com](mailto:antoniobernardini@live.com)
-* 🧠  I'm learning Computer Engineering and React Framework
+* 🧠  I'm learning Computer Engineering
 
 <a href="https://www.twitter.com/berna_engineer" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/berna_engineer?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
