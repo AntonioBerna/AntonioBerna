@@ -5,7 +5,7 @@ Full-Stack Developer
 --------------------
 
 * 🌍  I'm based in Rome
-* 🖥️  See my portfolio at [MyPortfolio](http://https://antonioberna.github.io/MyPortfolio/)
+* 🖥️  See my portfolio at [MyPortfolio](https://antonioberna.github.io/MyPortfolio/)
 * ✉️  You can contact me at [antoniobernardini@live.com](mailto:antoniobernardini@live.com)
 * 🧠  I'm learning Computer Engineering
 
