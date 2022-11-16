@@ -1,7 +1,7 @@
 Hi 👋 My name is Antonio Bernardini
 ===================================
 
-Full-Stack Developer
+Computer Engineering Student (Robotics and Automation)
 --------------------
 
 * 🌍  I'm based in Rome
