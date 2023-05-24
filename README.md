@@ -5,7 +5,7 @@ Computer Engineering Student (Robotics and Automation)
 --------------------
 
 * 🌍  I'm based in Rome
-* 🖥️  See my portfolio at [berna](https://antonioberna.github.io/MyPortfolio/)
+* 🖥️  See my portfolio at [berna](https://antonioberna.github.io/)
 * ✉️  You can contact me at [antoniobernardini@live.com](mailto:antoniobernardini@live.com)
 * 🧠  I'm learning Computer Engineering
 
