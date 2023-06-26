@@ -57,4 +57,5 @@ src="https://img.shields.io/twitch/status/CleverCode_?logo=twitchsx&style=for-th
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/clevercode"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="http://www.github.com/AntonioBerna"><img src="https://github-readme-stats.vercel.app/api?username=AntonioBerna&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AntonioBerna's GitHub stats" /></a>
+
