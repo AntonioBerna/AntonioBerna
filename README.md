@@ -44,18 +44,13 @@ Computer Engineering Student (Robotics and Automation)
 
 <a href="http://www.github.com/AntonioBerna"><img src="https://github-readme-stats.vercel.app/api?username=AntonioBerna&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show=reviews" alt="AntonioBerna's GitHub stats" /></a>
 
-| Byte and Repo Order | Repo Order | Byte Order | 
-| ----- | ----- | ----- |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioBerna&size_weight=0.5&count_weight=0.5&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&langs_count=5&hide=css,html" alt="AntonioBerna's GitHub Top Languages"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioBerna&size_weight=0&count_weight=1&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&langs_count=5&hide=css,html" alt="AntonioBerna's GitHub Top Languages"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioBerna&size_weight=1&count_weight=0&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&langs_count=5&hide=css,html" alt="AntonioBerna's GitHub Top Languages"/> |
-
-| Byte and Repo Order | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioBerna&size_weight=0.5&count_weight=0.5&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&langs_count=5&hide=css,html" alt="AntonioBerna's GitHub Top Languages"/> |
+| Byte and Repo Order | Repo Order |
 | ----- | ----- |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioBerna&size_weight=0.5&count_weight=0.5&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&langs_count=5&hide=css,html" alt="AntonioBerna's GitHub Top Languages"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioBerna&size_weight=0&count_weight=1&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&langs_count=5&hide=css,html" alt="AntonioBerna's GitHub Top Languages"/> |
 
-| Repo Order | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioBerna&size_weight=0&count_weight=1&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&langs_count=5&hide=css,html" alt="AntonioBerna's GitHub Top Languages"/> |
-| ----- | ----- |
-
-| Byte Order | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioBerna&size_weight=1&count_weight=0&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&langs_count=5&hide=css,html" alt="AntonioBerna's GitHub Top Languages"/> |
-| ----- | ----- |
+| Byte Order |
+| ----- |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioBerna&size_weight=1&count_weight=0&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&langs_count=5&hide=css,html" alt="AntonioBerna's GitHub Top Languages"/> |
 
 ### Support Me
 
