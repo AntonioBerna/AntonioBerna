@@ -42,9 +42,13 @@ Computer Engineering Student (Robotics and Automation)
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AntonioBerna"><img src="https://github-readme-stats.vercel.app/api?username=AntonioBerna&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AntonioBerna's GitHub stats" /></a>
+<a href="http://www.github.com/AntonioBerna"><img src="https://github-readme-stats.vercel.app/api?username=AntonioBerna&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show=reviews" alt="AntonioBerna's GitHub stats" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioBerna&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&langs_count=5&hide=css,html" alt="AntonioBerna's GitHub Top Languages"/>
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioBerna&size_weight=1&count_weight=0&custom_title=Top Languages (byte order)&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&langs_count=5&hide=css,html&show=MATLAB" alt="AntonioBerna's GitHub Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioBerna&size_weight=0.5&count_weight=0.5&custom_title=Top Languages (repo and byte)&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&langs_count=5&hide=css,html&show=MATLAB" alt="AntonioBerna's GitHub Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioBerna&size_weight=0&count_weight=1&custom_title=Top Languages (repo order)&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&langs_count=5&hide=css,html&show=MATLAB" alt="AntonioBerna's GitHub Top Languages"/>
+</div>
 
 ### Support Me
 
