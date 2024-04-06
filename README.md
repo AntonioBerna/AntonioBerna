@@ -1,13 +1,12 @@
 Hi 👋 My name is Antonio Bernardini
 ===================================
 
-Computer Engineering Student (Robotics and Automation)
+Engineers Student
 ------------------------------------------------------
 
 * 🌍  I'm based in Rome
-* 🖥️  See my portfolio at [berna](http://antonioberna.github.io)
+* 🖥️  See my portfolio at [berna.engineer](http://antonioberna.github.io)
 * ✉️  You can contact me at [antoniobernardini@live.com](mailto:antoniobernardini@live.com)
-* 🧠  I'm learning Computer Engineering
 
 ### Skills
 
