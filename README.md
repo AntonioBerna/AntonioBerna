@@ -1,8 +1,6 @@
-Hi 👋 My name is Antonio Bernardini
-===================================
+# Hi 👋 My name is Antonio Bernardini
 
-Engineers Student
-------------------------------------------------------
+## Engineers Student
 
 * 🌍  I'm based in Rome
 * 🖥️  See my portfolio at [berna.engineer](http://antonioberna.github.io)
