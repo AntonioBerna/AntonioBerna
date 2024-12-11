@@ -46,7 +46,7 @@
 ### Badges
 
 <p align="left">
-    <a href="https://www.credly.com/badges/89ba0441-8874-469e-8688-97f142fd69d7/public_url" target="_blank" rel="noreferrer"><img src="assets/badges/github-foundations.png" width="128" height="128">
+    <a href="https://www.credly.com/badges/89ba0441-8874-469e-8688-97f142fd69d7/public_url" target="_blank" rel="noreferrer"><img src=".github/assets/badges/github-foundations.png" width="128" height="128">
 </p>
 
 <a href="http://www.github.com/AntonioBerna"><img src="https://github-readme-stats.vercel.app/api?username=AntonioBerna&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&rank_icon=github" alt="AntonioBerna's GitHub stats" /></a>
